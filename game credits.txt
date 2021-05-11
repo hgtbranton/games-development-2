@@ -1,0 +1,39 @@
+sfx
+bear growl - rubberduck https://opengameart.org/content/80-cc0-rpg-sfx
+buttonClick -  NenadSimic https://opengameart.org/content/menu-selection-click
+gunshot - dklon https://opengameart.org/content/gunshots-0
+impact - qubodup https://opengameart.org/content/impact
+life_pickup - Blender Foundation https://opengameart.org/content/life-pickup-yo-frankie
+pickup - Vinrax https://opengameart.org/content/pickupplastic-sound
+summonsound - artisticdude https://opengameart.org/content/fire-evil-spell
+fireball - artisticdude https://opengameart.org/content/fire-evil-spell
+steps - TinyWorlds https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
+grunt - n3b https://opengameart.org/content/grunt
+stomp - hc https://opengameart.org/content/mech-stomp-step-sound
+throw - Blender Foundation https://opengameart.org/content/sfxthrow
+orc hurt - rubberduck https://opengameart.org/content/80-cc0-rpg-sfx
+bones - congusbongus https://opengameart.org/content/bones-rattle
+totem hurt - rubberduck https://opengameart.org/content/80-cc0-rpg-sfx
+
+sprites
+dmg up - https://www.pixilart.com/art/dmg-up-cc9084fd32b372b
+armour - Rojal http://www.pngall.com/armor-png
+thorns - Fkaucwpy https://www.subpng.com/png-dudvy7/
+rage - https://www.clipartmax.com/middle/m2H7K9b1A0A0A0H7_mean-face-clip-art-heros-rage/
+shoes - http://clipart-library.com/free/cartoon-shoes-transparent.html
+fire - https://www.vexels.com/png-svg/preview/145508/burning-fire-cartoon
+cannon - https://www.pikpng.com/pngvi/iTxiiom_cannon-cannon-barrel-clipart/
+minigun - https://www.nicepng.com/ourpic/u2q8i1q8q8i1y3a9_light-minigun-plazma-burst-2-minigun/
+laser gun - https://www.pinclipart.com/maxpin/mTmih/
+shadow - https://www.subpng.com/png-5rz6f3/
+cyclops - Elthen https://elthen.itch.io/2d-pixel-art-cyclops-sprites
+minotaur - Elthen https://elthen.itch.io/2d-pixel-art-minotaur-sprites
+imp - Elthen https://elthen.itch.io/2d-pixel-art-imp-sprites
+player - https://elthen.itch.io/2d-pixel-art-space-cadet-sprites
+bullet - http://pixelartmaker.com/art/63e15ad4a99ac13
+hook - https://www.vippng.com/maxp/ixiJwwJ/
+background - Christopher Sellers https://cutewallpaper.org/download.php?file=/21/dungeon-background/Best-56-Dungeon-Background-on-HipWallpaper-Dungeon-Boss-.jpg
+portal - https://cdn.shopify.com/s/files/1/0321/9596/9069/collections/cartoon-network-portal_1200x1200.png?v=1588605085
+button - MoozX Internet Ventures Inc. https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/a0/64/8fa064f0-b090-3614-2244-293cc9ebb531/source/512x512bb.jpg	
+switch - https://www.pngkey.com/maxpic/u2w7i1e6a9t4i1u2/
+
